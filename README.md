@@ -1,2 +1,2 @@
 # daffy_duckified
-Experimenting with projects from Codecademy's Ruby course.
+Experimenting with "Thith Meanth War" project from Codecademy's Ruby course.
